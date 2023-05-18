@@ -1,5 +1,33 @@
 {
     "plants": [
+      {
+        "name": "Dinner Plate Aralia",
+        "scientific_name": "Araliaceae or Arelia family",
+        "description": "Dinner Plate Aralia Plant (Dinner Plate Fatsia) is a tropical shrub native to Asia and is also known by the scientific name Fatsia japonica. It is prized for its large, glossy green leaves that can grow up to a foot in diameter. The leaves are shaped like a dinner plate and are the reason for its common name.",
+        "image_url": "https://media.istockphoto.com/id/1464982530/photo/vertical-shot-of-hands-holding-a-potted-plant.jpg?s=612x612&w=0&k=20&c=QRhpWneVCqItIMrGSmGB1AlylFBzT6roiZqCBFnrws4=",
+        "price": 13.77,
+        "in_stock": true,
+        "height": "4-5 feet",
+        "light_requirement": "Medium to bright indirect light",
+        "water_requirement": "Moderate",
+        "care_instruction": "The Dinner Plate Aralia Plant is easy to care for and requires minimal maintenance. It is important to keep the soil moist but not waterlogged. The plant also requires regular feeding with a balanced fertilizer. It is also important to prune the plant regularly to maintain its shape and size.",
+        "type": "Indoor",
+        "id": 5
+      },
+      {
+        "name": "Spider Plant Variegtaed",
+        "scientific_name": "Liliaceae or Lily family",
+        "description": "A native of Africa.Its ease of growing makes it a favorite plant with beginners. Grows up to 40 cms high.Leaves are long grassy about 3 to 4 cms wide and up to 30 cms long.Small white flowers are held on long arching stalks. They are followed by a tuft of young plantlets.Its use as a house plant originated centuries ago. Has been certified by NASA as one of the best removers of indoor pollutants. So is a plant very much relevant today - and will remain in the future!",
+        "image_url": "https://images.unsplash.com/photo-1654595510800-035b282b71f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 6.9,
+        "in_stock": true,
+        "height": "4-5 feet",
+        "light_requirement": "Sun growing, Semi shade, Shade growing",
+        "water_requirement": "Normal",
+        "care_instruction": "- It is very hardy grows.Very dependable.Any good soil with compost added is fine.Tolerates heat as well as cold quite well.",
+        "type": "Indoor",
+        "id": 6
+      },
     
       {
         "id": 2,
@@ -43,34 +71,7 @@
         "type": "Indoor",
         "id": 4
       },
-      {
-        "name": "Dinner Plate Aralia",
-        "scientific_name": "Araliaceae or Arelia family",
-        "description": "Dinner Plate Aralia Plant (Dinner Plate Fatsia) is a tropical shrub native to Asia and is also known by the scientific name Fatsia japonica. It is prized for its large, glossy green leaves that can grow up to a foot in diameter. The leaves are shaped like a dinner plate and are the reason for its common name.",
-        "image_url": "https://media.istockphoto.com/id/1464982530/photo/vertical-shot-of-hands-holding-a-potted-plant.jpg?s=612x612&w=0&k=20&c=QRhpWneVCqItIMrGSmGB1AlylFBzT6roiZqCBFnrws4=",
-        "price": 13.77,
-        "in_stock": true,
-        "height": "4-5 feet",
-        "light_requirement": "Medium to bright indirect light",
-        "water_requirement": "Moderate",
-        "care_instruction": "The Dinner Plate Aralia Plant is easy to care for and requires minimal maintenance. It is important to keep the soil moist but not waterlogged. The plant also requires regular feeding with a balanced fertilizer. It is also important to prune the plant regularly to maintain its shape and size.",
-        "type": "Indoor",
-        "id": 5
-      },
-      {
-        "name": "Spider Plant Variegtaed",
-        "scientific_name": "Liliaceae or Lily family",
-        "description": "A native of Africa.Its ease of growing makes it a favorite plant with beginners. Grows up to 40 cms high.Leaves are long grassy about 3 to 4 cms wide and up to 30 cms long.Small white flowers are held on long arching stalks. They are followed by a tuft of young plantlets.Its use as a house plant originated centuries ago. Has been certified by NASA as one of the best removers of indoor pollutants. So is a plant very much relevant today - and will remain in the future!",
-        "image_url": "https://images.unsplash.com/photo-1654595510800-035b282b71f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-        "price": 6.9,
-        "in_stock": true,
-        "height": "4-5 feet",
-        "light_requirement": "Sun growing, Semi shade, Shade growing",
-        "water_requirement": "Normal",
-        "care_instruction": "- It is very hardy grows.Very dependable.Any good soil with compost added is fine.Tolerates heat as well as cold quite well.",
-        "type": "Indoor",
-        "id": 6
-      },
+      
       {
         "name": "Mophead Hydrangea",
         "scientific_name": "Saxifragaceae",
