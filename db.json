@@ -1,19 +1,6 @@
 {
     "plants": [
-      {
-        "id": 22,
-        "name": "Rose",
-        "scientific_name": "Rosa",
-        "description": "Roses are beautiful flowering plants known for their variety of colors and fragrances.",
-        "image_url": "https://media.istockphoto.com/id/1191903198/photo/red-rose-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=sX90oZ9MORhoq2dVWSq5V5QavT7NKGnGInqWhG_0Z_w=",
-        "price": 9.99,
-        "in_stock": true,
-        "height": "2-5 feet",
-        "light_requirement": "Full sun",
-        "water_requirement": "Moderate",
-        "care_instruction": "1. Place the rose plant in a location with at least 6 hours of direct sunlight.\n2. Water the plant regularly, keeping the soil evenly moist but not waterlogged.\n3. Prune the rose plant in early spring to remove dead or damaged branches.\n4. Fertilize the plant every month during the growing season.\n5. Protect the plant from extreme temperatures and strong winds.",
-        "type": "Outdoor"
-      },
+    
       {
         "id": 2,
         "name": "Lavender",
@@ -559,6 +546,20 @@
         "care_instruction": "- Hydrangeas can take full sunlight in mild climates. In areas with very hot and dry summers - it is advisable to protect them from harsh afternoon sunlight.Plants require good fertile, well drained soil with a lot of organic matter in it.Water regularly - expecially in summer.Can be grown in pots as well as ground",
         "type": "Indoor",
         "id": 40
+      },
+      {
+        "id": 22,
+        "name": "Rose",
+        "scientific_name": "Rosa",
+        "description": "Roses are beautiful flowering plants known for their variety of colors and fragrances.",
+        "image_url": "https://media.istockphoto.com/id/1191903198/photo/red-rose-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=sX90oZ9MORhoq2dVWSq5V5QavT7NKGnGInqWhG_0Z_w=",
+        "price": 9.99,
+        "in_stock": true,
+        "height": "2-5 feet",
+        "light_requirement": "Full sun",
+        "water_requirement": "Moderate",
+        "care_instruction": "1. Place the rose plant in a location with at least 6 hours of direct sunlight.\n2. Water the plant regularly, keeping the soil evenly moist but not waterlogged.\n3. Prune the rose plant in early spring to remove dead or damaged branches.\n4. Fertilize the plant every month during the growing season.\n5. Protect the plant from extreme temperatures and strong winds.",
+        "type": "Outdoor"
       },
       {
         "name": "Ananas Variegated Spineless",
